@@ -1,4 +1,4 @@
-# Enhancing Legal Information Access with AI and RAG Technology
+# Enhancing Legal Information Access with Cutting Edge AI and RAG Technology
 
 An AI-driven system designed to modernize legal research using Retrieval-Augmented Generation (RAG). This project helps users navigate complex legal documents with context-aware insights.
 
