@@ -36,7 +36,7 @@ Once the server is running, access the platform at http://127.0.0.1:8000/
 
 ## Team Details
 **Team Lead:** K.Himani
-Team Members:
+**Team Members:**
 1.V.Balaji Chowdary
 2.G.Prem Sai
 3.J.Pavan
