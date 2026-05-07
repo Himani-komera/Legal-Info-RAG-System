@@ -35,12 +35,12 @@ Once the server is running, access the platform at http://127.0.0.1:8000/
 ​* **Pretrained LLM:** Queries are processed through a Large Language Model to generate enriched, context-aware outputs.
 
 ## Team Details
-**Team Lead:** K.Himani
-**Team Members:**
-1.V.Balaji Chowdary
-2.G.Prem Sai
-3.J.Pavan
-4.M.Sambasivaram
+* **Team Lead:** K.Himani
+* **Team Members:**
+1. V.Balaji Chowdary
+2. G.Prem Sai
+3. J.Pavan
+4. M.Sambasivaram
 
 ## Institution
 Chebrolu Engineering College
